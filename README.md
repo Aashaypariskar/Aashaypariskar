@@ -45,55 +45,7 @@ I’m a Full Stack Developer with hands-on experience building scalable, product
 </small>
 
 ---
-
-#### 👯 Looking to Collaborate On
-<small>
-
-- Full-stack or frontend projects using **JavaScript, React, Node.js**  
-- Open-source projects focused on performance and scalability
-
-</small>
-
----
-
-#### 🤝 Looking for Help With
-<small>
-
-- Backend scalability and system design  
-- Performance optimization and cloud deployment strategies
-
-</small>
-
----
-
-#### 🌱 Currently Learning
-<small>
-
-- Advanced **React patterns** and state management  
-- **TypeScript** for scalable frontend development  
-- Cloud deployment fundamentals (AWS / Vercel)
-
-</small>
-
----
-
-#### 💬 Ask Me About
-<small>
-
-- MERN Stack development  
-- REST API design & integration  
-- Frontend optimization and reusable component design  
-- Backend logic and database modeling
-
-</small>
-
----
-
-#### ⚡ Fun Fact
-<small>
-I enjoy breaking complex requirements into simple, scalable solutions through clean and maintainable code.
-</small>
-
+>
 ---
 
 ## 📊 GitHub Stats
