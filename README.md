@@ -50,11 +50,18 @@ I’m a Full Stack Developer with hands-on experience building scalable, product
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aashaypariskar&show_icons=true&theme=dark&hide_border=false" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashaypariskar&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashaypariskar&theme=dark&hide_border=false" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aashaypariskar&theme=dark&hide_border=false" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashaypariskar&theme=dark&hide_border=false&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashaypariskar&layout=compact&theme=dark&hide_border=false" />
+</p>
+
 
 
 ---
